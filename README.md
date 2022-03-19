@@ -1,5 +1,14 @@
 # Software Engineering Learn Resources
 
+## Web Browser
+
+### How web browser works
+
+- [ ] <https://developer.chrome.com/blog/inside-browser-part1/>
+- [ ] <https://developer.chrome.com/blog/inside-browser-part2/>
+- [ ] <https://developer.chrome.com/blog/inside-browser-part3/>
+- [ ] <https://developer.chrome.com/blog/inside-browser-part4/>
+
 ## Testing
 
 - [ ] <https://matthiasnoback.nl/2014/07/test-doubles/>
