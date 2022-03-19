@@ -1,5 +1,13 @@
 # Software Engineering Learn Resources
 
+## Programmer Language
+
+### GO
+
+#### error
+
+- [ ] <https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully>
+
 ## Web Browser
 
 ### How web browser works
