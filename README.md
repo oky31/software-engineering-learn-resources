@@ -4,6 +4,12 @@
 
 ### GO
 
+#### map
+
+- [ ] <https://dave.cheney.net/2017/04/30/if-a-map-isnt-a-reference-variable-what-is-it>
+- [ ] <https://yourbasic.org/golang/check-map-contains-key/>
+- [ ] <https://go.dev/blog/maps>
+
 #### error
 
 - [ ] <https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully>
