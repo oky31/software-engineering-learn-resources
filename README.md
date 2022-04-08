@@ -62,3 +62,28 @@
 ## Computer Science
 
 - [ ] <https://teachyourselfcs.com/>
+
+## Paper
+
+### Good Article ?
+
+- [x] <https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/>
+
+### How To Read Paper ?
+
+- [ ] <https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/>
+- [ ] <https://userpages.umbc.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html>
+- [ ] <https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/>
+- [ ] <https://michaelrbernste.in/2014/10/21/should-i-read-papers.html>
+- [ ] <https://www.youtube.com/watch?v=8eRx5Wo3xYA>
+
+### Recommend Paper
+
+- [ ] <https://github.com/papers-we-love/papers-we-love/blob/f28b9c9f6c52a81aa9e60521c794f1c3aeafa9a7/datastores/dynamo-amazons-highly-available-key-value-store.pdf>
+- [ ] <https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf>
+- [ ] <http://www.cs.ucf.edu/courses/cop4020/sum2009/CSP-hoare.pdf>
+- [ ] <https://github.com/papers-we-love/papers-we-love/blob/f28b9c9f6c52a81aa9e60521c794f1c3aeafa9a7/design/out-of-the-tar-pit.pdf>
+
+### Resource To Find Paper
+
+- [ ] <https://github.com/papers-we-love/papers-we-love>
