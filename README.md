@@ -14,6 +14,10 @@
 
 - [ ] <https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully>
 
+#### Reading List
+
+- [ ] <https://github.com/enocom/gopher-reading-list>
+
 ### PHP
 
 - [ ] <https://stitcher.io/blog/evolution-of-a-php-object>
