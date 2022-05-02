@@ -95,3 +95,9 @@
 ### Resource To Find Paper
 
 - [ ] <https://github.com/papers-we-love/papers-we-love>
+
+
+
+## Job
+
+- [ ] <https://lowlyswe.substack.com/p/my-experience-getting-a-tech-job?s=r>
