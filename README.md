@@ -1,5 +1,10 @@
 # Software Engineering Learn Resources
 
+## Philosophy
+
+- [Make It Work Make It Right Make It Fast](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
+- [Premature Optimization](http://wiki.c2.com/?PrematureOptimization)
+
 ## Programmer Language
 
 ### GO
