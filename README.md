@@ -19,7 +19,7 @@
 
 - [ ] <https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully>
 
-### article about go
+### Article about go
 
 - [ ] <https://typesanitizer.com/blog/go-experience-report.html>
 
